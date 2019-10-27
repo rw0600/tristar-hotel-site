@@ -1,0 +1,24 @@
+.mainparagraph {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 8pt;
+	color: #570961;
+	line-height: 11pt;
+}
+.goldheader {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #B09D60;
+}
+.smallfooterpurple {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 10px;
+	color: #570961;
+}
+
+.goldbigheader {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #B09D60;
+}
